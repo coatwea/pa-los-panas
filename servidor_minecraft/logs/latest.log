@@ -1,0 +1,121 @@
+[01:39:59] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[01:39:59] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[01:39:59] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:40:00] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[01:40:01] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Remapping server...
+[01:40:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:40:06] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[01:40:06] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[01:40:07] [ServerMain/INFO]: No existing world data, creating new world
+[01:40:08] [ServerMain/INFO]: Loaded 1290 recipes
+[01:40:09] [ServerMain/INFO]: Loaded 1399 advancements
+[01:40:09] [Server thread/INFO]: Starting minecraft server version 1.21
+[01:40:09] [Server thread/INFO]: Loading properties
+[01:40:09] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[01:40:09] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Done remapping server in 8768ms.
+[01:40:10] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:40:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:40:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:40:11] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[01:40:11] [Server thread/INFO]: Default game type: SURVIVAL
+[01:40:11] [Server thread/INFO]: Generating keypair
+[01:40:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:40:11] [Server thread/INFO]: Using epoll channel type
+[01:40:11] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:40:11] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[01:40:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:40:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:40:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:40:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:40:11] [Server thread/INFO]: Preparing level "world"
+[01:40:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:40:26] [Server thread/INFO]: Time elapsed: 5121 ms
+[01:40:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:40:28] [Server thread/INFO]: Time elapsed: 2141 ms
+[01:40:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:40:28] [Server thread/INFO]: Time elapsed: 508 ms
+[01:40:28] [Server thread/INFO]: [spark] Starting background profiler...
+[01:40:29] [Server thread/INFO]: Done preparing level "world" (17.610s)
+[01:40:29] [Server thread/INFO]: Running delayed init tasks
+[01:40:29] [Server thread/INFO]: Done (30.233s)! For help, type "help"
+[01:40:29] [Server thread/INFO]: *************************************************************************************
+[01:40:29] [Server thread/INFO]: This is the first time you're starting this server.
+[01:40:29] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[01:40:29] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[01:40:29] [Server thread/INFO]: *************************************************************************************
+[01:40:29] [Server thread/INFO]: Timings Reset
+[01:42:37] [User Authenticator #0/INFO]: UUID of player coatwea is 27a1a736-29a6-3bc2-94ad-d8e327617b32
+[01:42:39] [Server thread/INFO]: coatwea joined the game
+[01:42:39] [Server thread/INFO]: coatwea[/127.79.41.62:47841] logged in with entity id 54 at ([world]-5.5, 68.0, 9.5)
+[01:43:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+reebot<--[HERE]
+[01:43:45] [User Authenticator #1/INFO]: UUID of player RubixLander is c7e43442-3770-302b-950d-a4622bc5f3c9
+[01:43:46] [Server thread/INFO]: RubixLander joined the game
+[01:43:46] [Server thread/INFO]: RubixLander[/127.65.73.116:32785] logged in with entity id 482 at ([world]-4.5, 66.0, 4.5)
+[01:44:02] [Server thread/INFO]: RubixLander lost connection: Disconnected
+[01:44:02] [Server thread/INFO]: RubixLander left the game
+[01:44:07] [User Authenticator #1/INFO]: UUID of player Bernalesw is 745ce05b-8c8b-308b-9c71-74b3a458d9bb
+[01:44:09] [Server thread/INFO]: Bernalesw joined the game
+[01:44:09] [Server thread/INFO]: Bernalesw[/127.60.118.138:39185] logged in with entity id 520 at ([world]-4.5, 68.0, 6.5)
+[01:44:16] [User Authenticator #1/INFO]: UUID of player mAscARLO is 428445f6-32ec-3f52-8045-8c66bd4e2cd9
+[01:44:18] [Server thread/INFO]: mAscARLO joined the game
+[01:44:18] [Server thread/INFO]: mAscARLO[/127.58.37.208:60849] logged in with entity id 538 at ([world]-8.5, 66.0, -5.5)
+[01:44:27] [Async Chat Thread - #0/INFO]: [Not Secure] <Bernalesw> hola
+[01:44:46] [User Authenticator #1/INFO]: UUID of player matiasjc is 2c0b19ad-5812-38b4-a046-bbfad924b533
+[01:44:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@35ddea1d[id=2c0b19ad-5812-38b4-a046-bbfad924b533,name=matiasjc,properties={}] lost connection: Disconnected
+[01:45:05] [User Authenticator #1/INFO]: UUID of player matiasjc is 2c0b19ad-5812-38b4-a046-bbfad924b533
+[01:45:06] [Async Chat Thread - #0/INFO]: [Not Secure] <coatwea> para me pongo el optifine
+[01:45:07] [Server thread/INFO]: coatwea lost connection: Disconnected
+[01:45:07] [Server thread/INFO]: coatwea left the game
+[01:45:08] [Server thread/INFO]: matiasjc joined the game
+[01:45:08] [Server thread/INFO]: matiasjc[/127.122.110.59:60453] logged in with entity id 668 at ([world]2.5, 67.0, -6.5)
+[01:45:08] [Server thread/INFO]: matiasjc lost connection: Disconnected
+[01:45:08] [Server thread/INFO]: matiasjc left the game
+[01:45:26] [User Authenticator #1/INFO]: UUID of player matiasjc is 2c0b19ad-5812-38b4-a046-bbfad924b533
+[01:45:28] [Server thread/INFO]: matiasjc joined the game
+[01:45:28] [Server thread/INFO]: matiasjc[/127.122.110.59:42727] logged in with entity id 711 at ([world]2.5, 67.0, -6.5)
+[01:45:33] [User Authenticator #1/INFO]: UUID of player Bertexxs is 8ea9ccb1-8f1a-3953-a915-e6dbe3e0c743
+[01:45:34] [Server thread/INFO]: Bertexxs joined the game
+[01:45:34] [Server thread/INFO]: Bertexxs[/127.207.2.27:53341] logged in with entity id 718 at ([world]5.5, 67.0, -6.5)
+[01:45:39] [Async Chat Thread - #0/INFO]: [Not Secure] <mAscARLO> q onda
+[01:45:40] [Async Chat Thread - #0/INFO]: [Not Secure] <Bertexxs> waos
+[01:45:43] [Async Chat Thread - #0/INFO]: [Not Secure] <mAscARLO> hola cabros
+[01:45:45] [Async Chat Thread - #0/INFO]: [Not Secure] <Bernalesw> wena
+[01:45:45] [Server thread/INFO]: matiasjc issued server command: /gm 1
+[01:45:48] [Async Chat Thread - #0/INFO]: [Not Secure] <mAscARLO> somos de otro server
+[01:46:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Bernalesw> crearon el sv con colab?
+[01:46:03] [Async Chat Thread - #0/INFO]: [Not Secure] <matiasjc> eh
+[01:46:11] [Async Chat Thread - #0/INFO]: [Not Secure] <matiasjc> ni idea
+[01:46:13] [Async Chat Thread - #0/INFO]: [Not Secure] <matiasjc> jJAJA
+[01:46:19] [Server thread/INFO]: Bernalesw lost connection: Disconnected
+[01:46:19] [Server thread/INFO]: Bernalesw left the game
+[01:46:23] [Async Chat Thread - #0/INFO]: [Not Secure] <mAscARLO> un amigo acaba de crear el server
+[01:46:25] [User Authenticator #1/INFO]: UUID of player coatwea is 27a1a736-29a6-3bc2-94ad-d8e327617b32
+[01:46:26] [Server thread/INFO]: mAscARLO lost connection: Disconnected
+[01:46:26] [Server thread/INFO]: mAscARLO left the game
+[01:46:26] [Async Chat Thread - #0/INFO]: [Not Secure] <matiasjc> si
+[01:46:27] [Server thread/INFO]: coatwea joined the game
+[01:46:27] [Server thread/INFO]: coatwea[/127.79.41.62:37501] logged in with entity id 800 at ([world]-1.0313281600406625, 67.0, -3.2167346205026996)
+[01:46:34] [Async Chat Thread - #0/INFO]: [Not Secure] <coatwea> buenas
+[01:46:47] [Async Chat Thread - #0/INFO]: [Not Secure] <matiasjc> hi
+[01:47:00] [User Authenticator #1/INFO]: UUID of player CVMota1211 is b0f57b90-6b7c-3881-a834-a7da9ee3045c
+[01:47:03] [Server thread/INFO]: CVMota1211 joined the game
+[01:47:03] [Server thread/INFO]: CVMota1211[/127.126.122.59:52017] logged in with entity id 861 at ([world]-6.5, 67.0, -5.5)
+[01:47:13] [Server thread/INFO]: CVMota1211 lost connection: Disconnected
+[01:47:13] [Server thread/INFO]: CVMota1211 left the game
+[01:47:19] [Async Chat Thread - #0/INFO]: [Not Secure] <Bertexxs> ya lo configure
+[01:47:30] [Async Chat Thread - #0/INFO]: [Not Secure] <matiasjc> va algo lag
+[01:47:58] [Async Chat Thread - #0/INFO]: [Not Secure] <coatwea> yy bueno
+[01:47:59] [Async Chat Thread - #0/INFO]: [Not Secure] <Bertexxs> porqie no hay skins
+[01:48:02] [Async Chat Thread - #0/INFO]: [Not Secure] <coatwea> es server gratis
+[01:48:06] [Async Chat Thread - #0/INFO]: [Not Secure] <coatwea> porqe
+[01:48:08] [Server thread/INFO]: matiasjc has made the advancement [Stone Age]
+[01:48:09] [Async Chat Thread - #0/INFO]: [Not Secure] <coatwea> active el np
+[01:48:23] [Server thread/INFO]: coatwea has made the advancement [Stone Age]
+[01:48:23] [User Authenticator #2/INFO]: UUID of player CVMota1211 is b0f57b90-6b7c-3881-a834-a7da9ee3045c
+[01:48:26] [Server thread/INFO]: CVMota1211 joined the game
+[01:48:26] [Server thread/INFO]: CVMota1211[/127.126.122.59:56333] logged in with entity id 1094 at ([world]-6.110285812064112, 67.0, -5.3889389515671)
+[01:49:05] [Server thread/INFO]: matiasjc has made the advancement [Getting an Upgrade]
+[01:49:26] [Server thread/INFO]: coatwea has made the advancement [Getting an Upgrade]
+[01:49:39] [Server thread/INFO]: Bertexxs has made the advancement [Stone Age]
+[01:49:57] [Server thread/INFO]: Bertexxs has made the advancement [Getting an Upgrade]
