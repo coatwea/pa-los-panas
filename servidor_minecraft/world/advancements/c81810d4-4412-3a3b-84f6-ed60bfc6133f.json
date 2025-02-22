@@ -1311,9 +1311,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_potato": "2025-02-21 23:34:36 +0000"
+      "minecraft:soul_sand_valley": "2025-02-21 23:25:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-21 23:25:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-21 23:25:51 +0000"
     },
     "done": true
   },
@@ -1329,15 +1341,27 @@
     },
     "done": false
   },
-  "minecraft:nether/explore_nether": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-02-21 23:25:51 +0000"
+      "has_potato": "2025-02-21 23:34:36 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:nether/root": {
+  "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
-      "entered_nether": "2025-02-21 23:25:51 +0000"
+      "has_potato": "2025-02-21 23:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-21 23:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-21 23:34:36 +0000"
     },
     "done": true
   },
@@ -1353,27 +1377,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
+  "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
-      "has_potato": "2025-02-21 23:34:36 +0000"
+      "has_gunpowder": "2025-02-21 23:39:24 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "minecraft:recipes/redstone/tnt": {
     "criteria": {
-      "entered_nether": "2025-02-21 23:25:51 +0000"
+      "has_gunpowder": "2025-02-21 23:39:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_potato": "2025-02-21 23:34:36 +0000"
+      "has_wood_slab": "2025-02-21 23:41:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "has_carrot": "2025-02-21 23:34:36 +0000"
+      "minecraft:sheep": "2025-02-21 23:47:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-21 23:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-21 23:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-21 23:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-21 23:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-02-21 23:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-02-21 23:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-02-21 23:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-02-21 23:53:02 +0000"
     },
     "done": true
   },

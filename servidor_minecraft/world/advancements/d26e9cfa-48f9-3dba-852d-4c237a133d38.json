@@ -429,13 +429,15 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-02-21 23:02:22 +0000",
+      "minecraft:pillager": "2025-02-21 23:56:19 +0000",
       "minecraft:cave_spider": "2025-02-21 22:09:42 +0000",
       "minecraft:skeleton": "2025-02-21 21:49:46 +0000",
       "minecraft:enderman": "2025-02-21 22:34:42 +0000",
       "minecraft:spider": "2025-02-21 22:04:14 +0000",
       "minecraft:wither_skeleton": "2025-02-21 23:33:26 +0000",
       "minecraft:zombie": "2025-02-21 21:31:14 +0000",
-      "minecraft:creeper": "2025-02-21 22:34:28 +0000"
+      "minecraft:creeper": "2025-02-21 22:34:28 +0000",
+      "minecraft:husk": "2025-02-21 23:45:18 +0000"
     },
     "done": false
   },
@@ -1696,6 +1698,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-21 23:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-02-21 23:24:55 +0000"
@@ -1717,6 +1725,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-02-21 23:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-02-21 23:43:24 +0000"
     },
     "done": true
   },
@@ -1771,6 +1785,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-21 23:24:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-21 23:43:24 +0000"
     },
     "done": true
   },
