@@ -8,11 +8,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-02-21 22:20:40 +0000",
-      "minecraft:desert": "2025-02-21 22:25:55 +0000",
+      "minecraft:dark_forest": "2025-02-22 00:13:04 +0000",
       "minecraft:forest": "2025-02-21 22:34:06 +0000",
       "minecraft:sparse_jungle": "2025-02-21 22:21:35 +0000",
-      "minecraft:jungle": "2025-02-21 23:17:29 +0000",
       "minecraft:river": "2025-02-21 22:25:50 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-22 00:14:43 +0000",
+      "minecraft:desert": "2025-02-21 22:25:55 +0000",
+      "minecraft:jungle": "2025-02-21 23:17:29 +0000",
+      "minecraft:sunflower_plains": "2025-02-22 00:17:58 +0000",
+      "minecraft:birch_forest": "2025-02-22 00:12:05 +0000",
       "minecraft:savanna": "2025-02-21 22:23:13 +0000",
       "minecraft:bamboo_jungle": "2025-02-21 22:25:29 +0000",
       "minecraft:plains": "2025-02-21 22:13:08 +0000"
@@ -1473,6 +1477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-22 00:11:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-22 00:05:54 +0000"
@@ -1494,6 +1504,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-02-22 00:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-02-22 00:11:26 +0000"
     },
     "done": true
   },
@@ -1542,6 +1558,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-02-22 00:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-02-22 00:11:26 +0000"
     },
     "done": true
   },
@@ -1632,6 +1654,18 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-02-22 00:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-22 00:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-22 00:11:24 +0000"
     },
     "done": true
   },
