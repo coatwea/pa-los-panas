@@ -13,6 +13,7 @@
       "minecraft:river": "2025-02-22 02:31:02 +0000",
       "minecraft:lush_caves": "2025-02-22 03:25:30 +0000",
       "minecraft:dripstone_caves": "2025-02-22 02:40:58 +0000",
+      "minecraft:bamboo_jungle": "2025-02-22 03:30:00 +0000",
       "minecraft:plains": "2025-02-22 02:29:44 +0000"
     },
     "done": false
@@ -727,6 +728,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "glow_berries": "2025-02-22 03:28:17 +0000",
       "cooked_beef": "2025-02-22 02:44:34 +0000"
     },
     "done": false
@@ -1280,6 +1282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-22 03:27:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-22 03:05:21 +0000"
@@ -1298,9 +1306,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-02-22 03:27:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-22 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-22 03:27:55 +0000"
     },
     "done": true
   },
@@ -1325,6 +1345,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-22 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-02-22 03:28:12 +0000"
     },
     "done": true
   },
@@ -1370,9 +1396,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-22 03:27:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-22 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-22 03:27:47 +0000"
     },
     "done": true
   },
