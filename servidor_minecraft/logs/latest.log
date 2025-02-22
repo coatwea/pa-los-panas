@@ -1,199 +1,37 @@
-[16:06:10] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[16:06:10] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[16:06:10] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[16:06:10] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[16:06:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:06:17] [ServerMain/INFO]: Loaded 1290 recipes
-[16:06:18] [ServerMain/INFO]: Loaded 1399 advancements
-[16:06:18] [Server thread/INFO]: Starting minecraft server version 1.21
-[16:06:18] [Server thread/INFO]: Loading properties
-[16:06:18] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[16:06:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[16:06:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:06:19] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:06:19] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[16:06:20] [Server thread/INFO]: Default game type: SURVIVAL
-[16:06:20] [Server thread/INFO]: Generating keypair
-[16:06:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:06:20] [Server thread/INFO]: Using epoll channel type
-[16:06:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[16:06:20] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[16:06:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:06:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:06:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:06:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:06:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:06:20] [Server thread/INFO]: Preparing level "world"
-[16:06:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:06:22] [Server thread/INFO]: Time elapsed: 1447 ms
-[16:06:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[16:06:22] [Server thread/INFO]: Time elapsed: 193 ms
-[16:06:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[16:06:22] [Server thread/INFO]: Time elapsed: 132 ms
-[16:06:22] [Server thread/INFO]: [spark] Starting background profiler...
-[16:06:22] [Server thread/INFO]: Done preparing level "world" (2.603s)
-[16:06:22] [Server thread/INFO]: Running delayed init tasks
-[16:06:22] [Server thread/INFO]: Done (13.531s)! For help, type "help"
-[16:06:22] [Server thread/INFO]: Timings Reset
-[16:15:34] [User Authenticator #0/INFO]: UUID of player coatwea is 27a1a736-29a6-3bc2-94ad-d8e327617b32
-[16:15:37] [Server thread/INFO]: coatwea joined the game
-[16:15:37] [Server thread/INFO]: coatwea[/127.227.9.5:38033] logged in with entity id 66 at ([world]-497.30000001192093, -34.0, -5.699999988079071)
-[16:20:44] [Server thread/INFO]: coatwea lost connection: Disconnected
-[16:20:44] [Server thread/INFO]: coatwea left the game
-[16:33:05] [User Authenticator #1/INFO]: UUID of player _Jusinho_ is fb0fd6dc-f06a-31b9-9837-2840cafaa943
-[16:33:09] [Server thread/INFO]: _Jusinho_ joined the game
-[16:33:09] [Server thread/INFO]: _Jusinho_[/127.33.121.174:42581] logged in with entity id 999 at ([world]-374.6884561542605, 35.0, -414.34044613322754)
-[16:33:09] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: b1881f0a-78f9-43b8-b005-9d0c9a530443, mapped to EnderMan['Enderman'/1016, uuid='b1881f0a-78f9-43b8-b005-9d0c9a530443', l='ServerLevel[world]', x=-385.62, y=75.00, z=-424.94, cpos=[-25, -27], tl=7552, v=true], can't add EnderMan['Enderman'/1030, uuid='b1881f0a-78f9-43b8-b005-9d0c9a530443', l='ServerLevel[world]', x=-404.70, y=71.00, z=-445.32, cpos=[-26, -28], tl=2356, v=false]
-[16:33:09] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: c765fa73-af8d-4f26-94c1-eb1640e48b73, mapped to Skeleton['Skeleton'/1066, uuid='c765fa73-af8d-4f26-94c1-eb1640e48b73', l='ServerLevel[world]', x=-421.50, y=28.00, z=-436.50, cpos=[-27, -28], tl=1243, v=true], can't add Skeleton['Skeleton'/1085, uuid='c765fa73-af8d-4f26-94c1-eb1640e48b73', l='ServerLevel[world]', x=-421.37, y=28.00, z=-458.49, cpos=[-27, -29], tl=4162, v=false]
-[16:33:10] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 42777593-b03f-4885-9cdc-bc6ce76b9e01, mapped to Creeper['Creeper'/1086, uuid='42777593-b03f-4885-9cdc-bc6ce76b9e01', l='ServerLevel[world]', x=-417.46, y=33.00, z=-462.11, cpos=[-27, -29], tl=971, v=true], can't add Creeper['Creeper'/1123, uuid='42777593-b03f-4885-9cdc-bc6ce76b9e01', l='ServerLevel[world]', x=-418.15, y=33.00, z=-468.38, cpos=[-27, -30], tl=2597, v=false]
-[16:37:10] [Server thread/INFO]: _Jusinho_ has made the advancement [A Seedy Place]
-[16:47:30] [Server thread/INFO]: _Jusinho_ has made the advancement [Take Aim]
-[17:01:47] [Server thread/INFO]: _Jusinho_ has made the advancement [Sweet Dreams]
-[17:37:58] [User Authenticator #2/INFO]: UUID of player Prensadito is d26e9cfa-48f9-3dba-852d-4c237a133d38
-[17:38:00] [Server thread/INFO]: Prensadito joined the game
-[17:38:00] [Server thread/INFO]: Prensadito[/127.253.7.41:57947] logged in with entity id 12024 at ([world_the_end]98.45840168215626, 49.0, 0.5)
-[17:39:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> y mi inventario xd
-[17:39:32] [Server thread/INFO]: Prensadito was doomed to fall by Ender Dragon
-[17:39:47] [Async Chat Thread - #0/INFO]: [Not Secure] <_Jusinho_> hola xd
-[17:39:51] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> hola rey
-[17:40:23] [Async Chat Thread - #0/INFO]: [Not Secure] <_Jusinho_> por que te mueres tanto
-[17:40:35] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> perdi mis cosas
-[17:40:40] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> ando matando el dragon a pura hacha
-[17:40:55] [Async Chat Thread - #0/INFO]: [Not Secure] <_Jusinho_> ah
-[17:40:57] [Async Chat Thread - #0/INFO]: [Not Secure] <_Jusinho_> XD
-[17:42:31] [Server thread/INFO]: Prensadito was killed by Ender Dragon using magic
-[17:44:41] [Server thread/INFO]: Prensadito has made the advancement [Free the End]
-[17:44:46] [Async Chat Thread - #2/INFO]: [Not Secure] <Prensadito> gg
-[17:44:51] [Async Chat Thread - #2/INFO]: [Not Secure] <_Jusinho_> buena bro
-[17:45:51] [Server thread/INFO]: Prensadito has reached the goal [The Next Generation]
-[17:49:40] [Server thread/WARN]: Oak Boat (vehicle of Prensadito) moved wrongly! 0.5518505581007958
-[17:49:40] [Server thread/WARN]: Oak Boat (vehicle of Prensadito) moved wrongly! 0.8174954268185957
-[17:49:40] [Server thread/WARN]: Oak Boat (vehicle of Prensadito) moved wrongly! 0.8772597189097269
-[17:49:40] [Server thread/WARN]: Oak Boat (vehicle of Prensadito) moved wrongly! 0.9395175943757295
-[17:50:04] [User Authenticator #3/INFO]: UUID of player k3v is c81810d4-4412-3a3b-84f6-ed60bfc6133f
-[17:50:05] [Server thread/INFO]: k3v joined the game
-[17:50:05] [Server thread/INFO]: k3v[/127.36.66.8:44461] logged in with entity id 15447 at ([world]-530.7800510788138, 70.0, -131.6358111895846)
-[17:50:29] [Async Chat Thread - #4/INFO]: [Not Secure] <k3v> klk
-[17:50:33] [Async Chat Thread - #4/INFO]: [Not Secure] <Prensadito> que onda k
-[17:50:37] [Async Chat Thread - #4/INFO]: [Not Secure] <Prensadito> k3v
-[17:50:50] [Async Chat Thread - #4/INFO]: [Not Secure] <k3v> tdo bien
-[17:50:59] [Async Chat Thread - #4/INFO]: [Not Secure] <Prensadito> todo bien bro
-[17:51:09] [Async Chat Thread - #4/INFO]: [Not Secure] <k3v> que hicieron mientras no estaba?
-[17:51:27] [Async Chat Thread - #4/INFO]: [Not Secure] <Prensadito> yo me vine a buscar a el dragon
-[17:51:30] [Async Chat Thread - #4/INFO]: [Not Secure] <Prensadito> Ian quedo en la base
-[17:51:32] [Async Chat Thread - #4/INFO]: [Not Secure] <_Jusinho_> estoy afk porsi
-[17:52:46] [Async Chat Thread - #6/INFO]: [Not Secure] <k3v> donde estas ahora?
-[17:52:51] [Async Chat Thread - #6/INFO]: [Not Secure] <Prensadito> Volviendo a base
-[17:52:58] [Async Chat Thread - #6/INFO]: [Not Secure] <Prensadito> necesito comida xd
-[17:53:18] [Async Chat Thread - #6/INFO]: [Not Secure] <k3v> pon un aldeano de compostador
-[17:53:27] [Async Chat Thread - #6/INFO]: [Not Secure] <k3v> o ya hay?
-[17:53:33] [Async Chat Thread - #6/INFO]: [Not Secure] <Prensadito> creo que no
-[17:55:02] [Async Chat Thread - #8/INFO]: [Not Secure] <Prensadito> buena base _Jusinho_
-[17:55:58] [Async Chat Thread - #8/INFO]: [Not Secure] <Prensadito> a
-[17:55:59] [Server thread/INFO]: Prensadito lost connection: Disconnected
-[17:55:59] [Server thread/INFO]: Prensadito left the game
-[17:56:01] [User Authenticator #4/INFO]: UUID of player Prensadito is d26e9cfa-48f9-3dba-852d-4c237a133d38
-[17:56:04] [Server thread/INFO]: Prensadito joined the game
-[17:56:04] [Server thread/INFO]: Prensadito[/127.253.7.41:36009] logged in with entity id 19477 at ([world]-952.2997065850503, 69.0, -56.38378241072831)
-[17:57:00] [Async Chat Thread - #10/INFO]: [Not Secure] <_Jusinho_> volvi
-[17:57:13] [Async Chat Thread - #10/INFO]: [Not Secure] <k3v> zzz
-[17:57:15] [Server thread/INFO]: Prensadito lost connection: Disconnected
-[17:57:15] [Server thread/INFO]: Prensadito left the game
-[17:57:33] [User Authenticator #5/INFO]: UUID of player Prensadito is d26e9cfa-48f9-3dba-852d-4c237a133d38
-[17:57:35] [Server thread/INFO]: Prensadito joined the game
-[17:57:35] [Server thread/INFO]: Prensadito[/127.253.7.41:39873] logged in with entity id 20314 at ([world]-685.591123059114, 64.0, -143.84092281978812)
-[17:57:47] [Async Chat Thread - #10/INFO]: [Not Secure] <_Jusinho_> cuando me visitasteb prensadito xdd
-[17:58:20] [Async Chat Thread - #10/INFO]: [Not Secure] <Prensadito> tu base esta en -1000 130 xd
-[17:58:38] [Server thread/INFO]: k3v has made the advancement [Cover Me with Diamonds]
-[17:58:40] [Async Chat Thread - #10/INFO]: [Not Secure] <_Jusinho_> si jsjsj
-[17:58:56] [Async Chat Thread - #10/INFO]: [Not Secure] <Prensadito> huevito
-[17:58:56] [Async Chat Thread - #10/INFO]: [Not Secure] <k3v> fuiste a buscar elitras?
-[17:59:01] [Async Chat Thread - #10/INFO]: [Not Secure] <Prensadito> no aun
-[17:59:02] [Async Chat Thread - #10/INFO]: [Not Secure] <Prensadito> ahora vamos
-[17:59:08] [Async Chat Thread - #11/INFO]: [Not Secure] <k3v> me pongo full d y vamos?
-[17:59:11] [Async Chat Thread - #11/INFO]: [Not Secure] <Prensadito> d1
-[18:02:24] [Async Chat Thread - #12/INFO]: [Not Secure] <k3v> vamo
-[18:02:29] [Async Chat Thread - #12/INFO]: [Not Secure] <Prensadito> pera
-[18:02:32] [Async Chat Thread - #12/INFO]: [Not Secure] <Prensadito> q farmeo 2 arboles
-[18:02:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Prensadito> para hacer los puentes
-[18:02:43] [Async Chat Thread - #12/INFO]: [Not Secure] <k3v> va
-[18:06:17] [Async Chat Thread - #14/INFO]: [Not Secure] <Prensadito> tenes arco?
-[18:06:20] [Async Chat Thread - #14/INFO]: [Not Secure] <k3v> no
-[18:07:14] [Async Chat Thread - #14/INFO]: [Not Secure] <Prensadito> bueno vam
-[18:07:22] [Async Chat Thread - #14/INFO]: [Not Secure] <k3v> gou
-[18:07:36] [Async Chat Thread - #14/INFO]: [Not Secure] <Prensadito> pera
-[18:07:38] [Async Chat Thread - #14/INFO]: [Not Secure] <Prensadito> xd
-[18:07:50] [Async Chat Thread - #14/INFO]: [Not Secure] <Prensadito> ahroasi
-[18:08:41] [Server thread/INFO]: k3v has made the advancement [Take Aim]
-[18:10:06] [Async Chat Thread - #16/INFO]: [Not Secure] <Prensadito> mira alla
-[18:10:20] [Async Chat Thread - #16/INFO]: [Not Secure] <k3v> esa es la de qn
-[18:10:25] [Server thread/INFO]: _Jusinho_ has made the advancement [You've Got a Friend in Me]
-[18:13:26] [Server thread/INFO]: k3v has made the advancement [Eye Spy]
-[18:13:45] [Server thread/INFO]: k3v has made the advancement [The End?]
-[18:14:51] [Server thread/INFO]: Prensadito has made the advancement [Remote Getaway]
-[18:14:54] [Server thread/INFO]: k3v has made the advancement [Remote Getaway]
-[18:15:09] [Async Chat Thread - #18/INFO]: [Not Secure] <k3v> vamos juntos?
-[18:15:17] [Async Chat Thread - #18/INFO]: [Not Secure] <Prensadito> Como crees que es mejor?
-[18:15:40] [Async Chat Thread - #19/INFO]: [Not Secure] <Prensadito> trajiste polvora y papel?
-[18:15:45] [Async Chat Thread - #19/INFO]: [Not Secure] <k3v> no jaskjs
-[18:15:49] [Async Chat Thread - #19/INFO]: [Not Secure] <Prensadito> x2 xd
-[18:15:51] [Async Chat Thread - #19/INFO]: [Not Secure] <k3v> yo digo q separados
-[18:15:54] [Async Chat Thread - #19/INFO]: [Not Secure] <Prensadito> va
-[18:16:05] [Async Chat Thread - #19/INFO]: [Not Secure] <Prensadito> voy west
-[18:16:13] [Async Chat Thread - #19/INFO]: [Not Secure] <k3v> va
-[18:17:22] [Async Chat Thread - #20/INFO]: [Not Secure] <Prensadito> vos vas north?
-[18:17:28] [Async Chat Thread - #20/INFO]: [Not Secure] <k3v> si norte
-[18:17:37] [Async Chat Thread - #21/INFO]: [Not Secure] <k3v> pa east no hay na
-[18:19:40] [Server thread/INFO]: k3v has made the advancement [The City at the End of the Game]
-[18:19:57] [Async Chat Thread - #22/INFO]: [Not Secure] <Prensadito> bien
-[18:22:33] [Server thread/INFO]: k3v has made the advancement [Local Brewery]
-[18:22:46] [Async Chat Thread - #24/INFO]: [Not Secure] <Prensadito> ni una xd
-[18:22:50] [Server thread/INFO]: k3v has reached the goal [Sky's the Limit]
-[18:25:49] [Server thread/INFO]: Prensadito issued server command: /seeds
-[18:25:52] [Server thread/INFO]: Prensadito issued server command: /seed
-[18:25:57] [Server thread/INFO]: Prensadito issued server command: /locate
-[18:26:22] [Async Chat Thread - #26/INFO]: [Not Secure] <k3v> encontre otra ven
-[18:26:29] [Async Chat Thread - #26/INFO]: [Not Secure] <k3v> o te la consigo?
-[18:26:36] [Async Chat Thread - #26/INFO]: [Not Secure] <Prensadito> Consigela pls
-[18:26:43] [Async Chat Thread - #26/INFO]: [Not Secure] <Prensadito> estoy en -1200 1600
-[18:26:43] [Async Chat Thread - #26/INFO]: [Not Secure] <k3v> dale
-[18:26:56] [Async Chat Thread - #26/INFO]: [Not Secure] <k3v> yo estoy en -890 -870
-[18:27:21] [Server thread/INFO]: _Jusinho_ has made the advancement [We Need to Go Deeper]
-[18:27:26] [Async Chat Thread - #26/INFO]: [Not Secure] <k3v> voy a conseguir las elitras y me voy
-[18:27:33] [Async Chat Thread - #26/INFO]: [Not Secure] <k3v> looteamos despues
-[18:27:34] [Async Chat Thread - #26/INFO]: [Not Secure] <Prensadito> bueno bro
-[18:27:39] [Async Chat Thread - #26/INFO]: [Not Secure] <Prensadito> si con elitras mas facil
-[18:28:04] [Async Chat Thread - #26/INFO]: [Not Secure] <Prensadito> xd
-[18:28:11] [Async Chat Thread - #26/INFO]: [Not Secure] <Prensadito> la primera que encuentro y sin barco
-[18:28:15] [Async Chat Thread - #26/INFO]: [Not Secure] <Prensadito> T_t
-[18:28:17] [Async Chat Thread - #26/INFO]: [Not Secure] <k3v> jaksjs
-[18:28:34] [Server thread/INFO]: Prensadito has made the advancement [The City at the End of the Game]
-[18:33:07] [Async Chat Thread - #28/INFO]: [Not Secure] <k3v> cuales son las coordenadas del portal de la base?
-[18:33:28] [Async Chat Thread - #28/INFO]: [Not Secure] <Prensadito> de el nether?
-[18:33:30] [Async Chat Thread - #28/INFO]: [Not Secure] <k3v> si
-[18:33:45] [Server thread/INFO]: _Jusinho_ has completed the challenge [Return to Sender]
-[18:33:52] [Server thread/INFO]: _Jusinho_ has made the advancement [Ol' Betsy]
-[18:34:01] [Async Chat Thread - #28/INFO]: [Not Secure] <Prensadito> esas si no las tengo
-[18:36:31] [Server thread/INFO]: Prensadito has reached the goal [Sky's the Limit]
-[18:36:44] [Async Chat Thread - #30/INFO]: [Not Secure] <k3v> ya?
-[18:36:49] [Async Chat Thread - #30/INFO]: [Not Secure] <Prensadito> si
-[18:36:53] [Async Chat Thread - #30/INFO]: [Not Secure] <Prensadito> viniendo para el portal xd
-[18:36:57] [Async Chat Thread - #30/INFO]: [Not Secure] <k3v> tengo son las de ian xd
-[18:37:28] [Async Chat Thread - #30/INFO]: [Not Secure] <Prensadito> si bro
-[18:46:11] [Server thread/INFO]: _Jusinho_ lost connection: Disconnected
-[18:46:11] [Server thread/INFO]: _Jusinho_ left the game
-[18:46:24] [Async Chat Thread - #32/INFO]: [Not Secure] <k3v> ya vienes?
-[18:46:49] [Async Chat Thread - #32/INFO]: [Not Secure] <Prensadito> voy
-[18:48:13] [User Authenticator #6/INFO]: UUID of player _Jusinho_ is fb0fd6dc-f06a-31b9-9837-2840cafaa943
-[18:48:17] [Server thread/INFO]: _Jusinho_ joined the game
-[18:48:17] [Server thread/INFO]: _Jusinho_[/127.33.121.174:44709] logged in with entity id 44757 at ([world_nether]-230.648690095987, 89.0, 24.78484969065064)
-[18:49:26] [Server thread/INFO]: _Jusinho_ has made the advancement [A Terrible Fortress]
-[18:49:33] [Server thread/INFO]: _Jusinho_ has made the advancement [Into Fire]
-[18:51:41] [Async Chat Thread - #34/INFO]: [Not Secure] <Prensadito> sin bloques :x
-[18:58:02] [Async Chat Thread - #36/INFO]: [Not Secure] <Prensadito> me pasas las cords de el portal de el nether?
-[18:58:06] [Async Chat Thread - #36/INFO]: [Not Secure] <k3v> voy
-[18:58:32] [Async Chat Thread - #36/INFO]: [Not Secure] <k3v> -69 62 -18
-[18:58:50] [Async Chat Thread - #36/INFO]: [Not Secure] <Prensadito> grax
-[19:00:40] [Async Chat Thread - #38/INFO]: [Not Secure] <k3v> hacemos la granja de mobs de una vez?
-[19:00:56] [Async Chat Thread - #38/INFO]: [Not Secure] <Prensadito> Si habria q hacer
-[19:02:50] [Async Chat Thread - #40/INFO]: [Not Secure] <Prensadito> afk un toq
+[23:04:08] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[23:04:08] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[23:04:08] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:04:08] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[23:04:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:04:16] [ServerMain/INFO]: Loaded 1290 recipes
+[23:04:16] [ServerMain/INFO]: Loaded 1399 advancements
+[23:04:17] [Server thread/INFO]: Starting minecraft server version 1.21
+[23:04:17] [Server thread/INFO]: Loading properties
+[23:04:17] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[23:04:18] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:04:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:04:18] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:04:19] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[23:04:19] [Server thread/INFO]: Default game type: SURVIVAL
+[23:04:19] [Server thread/INFO]: Generating keypair
+[23:04:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:04:19] [Server thread/INFO]: Using epoll channel type
+[23:04:19] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:04:19] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[23:04:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:04:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:04:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:04:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:04:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:04:19] [Server thread/INFO]: Preparing level "world"
+[23:04:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:04:21] [Server thread/INFO]: Time elapsed: 1579 ms
+[23:04:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:04:22] [Server thread/INFO]: Time elapsed: 442 ms
+[23:04:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:04:22] [Server thread/INFO]: Time elapsed: 372 ms
+[23:04:22] [Server thread/INFO]: [spark] Starting background profiler...
+[23:04:23] [Server thread/INFO]: Done preparing level "world" (3.721s)
+[23:04:23] [Server thread/INFO]: Running delayed init tasks
+[23:04:23] [Server thread/INFO]: Done (17.527s)! For help, type "help"
+[23:04:23] [Server thread/INFO]: Timings Reset
