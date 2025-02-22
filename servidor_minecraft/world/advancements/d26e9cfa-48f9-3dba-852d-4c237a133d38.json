@@ -437,7 +437,8 @@
       "minecraft:wither_skeleton": "2025-02-21 23:33:26 +0000",
       "minecraft:zombie": "2025-02-21 21:31:14 +0000",
       "minecraft:creeper": "2025-02-21 22:34:28 +0000",
-      "minecraft:husk": "2025-02-21 23:45:18 +0000"
+      "minecraft:husk": "2025-02-21 23:45:18 +0000",
+      "minecraft:ghast": "2025-02-22 00:53:48 +0000"
     },
     "done": false
   },
@@ -1935,6 +1936,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-02-22 00:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-22 00:53:06 +0000"
     },
     "done": true
   },
