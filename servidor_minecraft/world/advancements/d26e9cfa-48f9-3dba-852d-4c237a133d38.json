@@ -2425,5 +2425,11 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-02-22 18:14:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
