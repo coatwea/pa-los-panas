@@ -1487,6 +1487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-22 17:12:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-02-22 16:44:29 +0000"
@@ -1541,6 +1547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_the_recipe": "2025-02-22 17:03:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "melon_stem": "2025-02-22 16:37:10 +0000"
@@ -1559,15 +1571,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2025-02-22 17:12:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-02-22 16:36:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-22 17:12:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-02-22 17:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-22 17:12:52 +0000"
     },
     "done": true
   },
