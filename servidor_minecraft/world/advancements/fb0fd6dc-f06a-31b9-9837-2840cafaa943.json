@@ -790,7 +790,8 @@
       "minecraft:zombie": "2025-02-22 02:53:05 +0000",
       "minecraft:creeper": "2025-02-22 03:11:51 +0000",
       "minecraft:drowned": "2025-02-22 16:49:37 +0000",
-      "minecraft:zombie_villager": "2025-02-22 03:46:02 +0000"
+      "minecraft:zombie_villager": "2025-02-22 03:46:02 +0000",
+      "minecraft:ghast": "2025-02-22 18:33:45 +0000"
     },
     "done": false
   },
@@ -1588,7 +1589,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-02-22 18:27:22 +0000"
+      "minecraft:nether_wastes": "2025-02-22 18:27:22 +0000",
+      "minecraft:soul_sand_valley": "2025-02-22 18:29:37 +0000"
     },
     "done": false
   },
@@ -1658,9 +1660,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-22 18:28:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-02-22 18:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-22 18:28:50 +0000"
     },
     "done": true
   },
@@ -1718,6 +1732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-22 18:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-02-22 17:58:56 +0000"
@@ -1742,6 +1762,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-22 18:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-02-22 18:34:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-02-22 17:36:05 +0000"
@@ -1757,6 +1789,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-02-22 18:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-02-22 18:33:45 +0000"
     },
     "done": true
   },
@@ -1862,6 +1900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-22 18:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-02-22 18:19:38 +0000"
@@ -1892,6 +1936,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-22 18:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-22 18:28:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-02-22 16:36:35 +0000"
@@ -1907,6 +1963,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-02-22 17:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-02-22 18:34:59 +0000"
     },
     "done": true
   },
@@ -1967,6 +2029,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-02-22 17:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-22 18:33:52 +0000"
     },
     "done": true
   },
