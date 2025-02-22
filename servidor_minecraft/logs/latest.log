@@ -48,3 +48,4 @@
 [16:33:10] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 42777593-b03f-4885-9cdc-bc6ce76b9e01, mapped to Creeper['Creeper'/1086, uuid='42777593-b03f-4885-9cdc-bc6ce76b9e01', l='ServerLevel[world]', x=-417.46, y=33.00, z=-462.11, cpos=[-27, -29], tl=971, v=true], can't add Creeper['Creeper'/1123, uuid='42777593-b03f-4885-9cdc-bc6ce76b9e01', l='ServerLevel[world]', x=-418.15, y=33.00, z=-468.38, cpos=[-27, -30], tl=2597, v=false]
 [16:37:10] [Server thread/INFO]: _Jusinho_ has made the advancement [A Seedy Place]
 [16:47:30] [Server thread/INFO]: _Jusinho_ has made the advancement [Take Aim]
+[17:01:47] [Server thread/INFO]: _Jusinho_ has made the advancement [Sweet Dreams]
