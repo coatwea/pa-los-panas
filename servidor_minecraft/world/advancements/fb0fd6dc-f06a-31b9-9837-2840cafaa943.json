@@ -780,6 +780,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-22 17:37:28 +0000",
       "minecraft:cave_spider": "2025-02-22 03:48:26 +0000",
       "minecraft:skeleton": "2025-02-22 02:48:24 +0000",
       "minecraft:phantom": "2025-02-22 16:47:30 +0000",
@@ -1583,6 +1584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-22 17:36:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-22 17:26:12 +0000"
@@ -1598,6 +1605,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-22 17:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-22 17:36:05 +0000"
     },
     "done": true
   },
@@ -1661,6 +1674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-22 17:36:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_the_recipe": "2025-02-22 17:12:48 +0000"
@@ -1670,6 +1689,12 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-02-22 16:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-22 17:36:03 +0000"
     },
     "done": true
   },
