@@ -2052,15 +2052,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_blaze_powder": "2025-02-22 18:58:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-02-22 19:13:21 +0000"
+      "fortress": "2025-02-22 18:49:26 +0000"
     },
     "done": true
   },
@@ -2070,15 +2064,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-22 18:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-22 18:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-02-22 18:58:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "minecraft:recipes/misc/ender_eye": {
     "criteria": {
-      "has_blaze_rod": "2025-02-22 18:49:33 +0000"
+      "has_blaze_powder": "2025-02-22 18:58:34 +0000"
     },
     "done": true
   },
@@ -2088,15 +2094,9 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "fortress": "2025-02-22 18:49:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-02-22 18:49:33 +0000"
+      "has_spider_eye": "2025-02-22 19:13:21 +0000"
     },
     "done": true
   },

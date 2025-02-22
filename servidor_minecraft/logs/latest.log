@@ -35,3 +35,7 @@
 [23:04:23] [Server thread/INFO]: Running delayed init tasks
 [23:04:23] [Server thread/INFO]: Done (17.527s)! For help, type "help"
 [23:04:23] [Server thread/INFO]: Timings Reset
+[23:17:18] [User Authenticator #0/INFO]: UUID of player _Jusinho_ is fb0fd6dc-f06a-31b9-9837-2840cafaa943
+[23:17:23] [Server thread/INFO]: _Jusinho_ joined the game
+[23:17:23] [Server thread/INFO]: _Jusinho_[/127.33.121.174:38917] logged in with entity id 37 at ([world]-1086.4785334377793, 71.0, 149.4610073477693)
+[23:20:03] [Server thread/WARN]: _Jusinho_ moved too quickly! -10.210816310547443,1.0244240882136921,-0.7173574767257094
