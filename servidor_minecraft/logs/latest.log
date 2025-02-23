@@ -35,3 +35,8 @@
 [17:39:19] [Server thread/INFO]: Running delayed init tasks
 [17:39:19] [Server thread/INFO]: Done (16.113s)! For help, type "help"
 [17:39:19] [Server thread/INFO]: Timings Reset
+[18:18:33] [User Authenticator #0/INFO]: UUID of player Prensadito is d26e9cfa-48f9-3dba-852d-4c237a133d38
+[18:18:35] [Server thread/INFO]: Prensadito joined the game
+[18:18:36] [Server thread/INFO]: Prensadito[/127.253.7.41:39995] logged in with entity id 34 at ([world]-1085.300000011921, 79.0, 112.5618480390145)
+[18:19:12] [Server thread/INFO]: Prensadito lost connection: Timed out
+[18:19:12] [Server thread/INFO]: Prensadito left the game
