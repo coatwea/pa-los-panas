@@ -1,56 +1,9 @@
-[23:04:08] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[23:04:08] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[23:04:08] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[23:04:08] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[23:04:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:04:16] [ServerMain/INFO]: Loaded 1290 recipes
-[23:04:16] [ServerMain/INFO]: Loaded 1399 advancements
-[23:04:17] [Server thread/INFO]: Starting minecraft server version 1.21
-[23:04:17] [Server thread/INFO]: Loading properties
-[23:04:17] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[23:04:18] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[23:04:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[23:04:18] [Server thread/INFO]: Using 4 threads for Netty based IO
-[23:04:19] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[23:04:19] [Server thread/INFO]: Default game type: SURVIVAL
-[23:04:19] [Server thread/INFO]: Generating keypair
-[23:04:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:04:19] [Server thread/INFO]: Using epoll channel type
-[23:04:19] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[23:04:19] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[23:04:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[23:04:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:04:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:04:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:04:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:04:19] [Server thread/INFO]: Preparing level "world"
-[23:04:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:04:21] [Server thread/INFO]: Time elapsed: 1579 ms
-[23:04:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[23:04:22] [Server thread/INFO]: Time elapsed: 442 ms
-[23:04:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[23:04:22] [Server thread/INFO]: Time elapsed: 372 ms
-[23:04:22] [Server thread/INFO]: [spark] Starting background profiler...
-[23:04:23] [Server thread/INFO]: Done preparing level "world" (3.721s)
-[23:04:23] [Server thread/INFO]: Running delayed init tasks
-[23:04:23] [Server thread/INFO]: Done (17.527s)! For help, type "help"
-[23:04:23] [Server thread/INFO]: Timings Reset
-[23:17:18] [User Authenticator #0/INFO]: UUID of player _Jusinho_ is fb0fd6dc-f06a-31b9-9837-2840cafaa943
-[23:17:23] [Server thread/INFO]: _Jusinho_ joined the game
-[23:17:23] [Server thread/INFO]: _Jusinho_[/127.33.121.174:38917] logged in with entity id 37 at ([world]-1086.4785334377793, 71.0, 149.4610073477693)
-[23:20:03] [Server thread/WARN]: _Jusinho_ moved too quickly! -10.210816310547443,1.0244240882136921,-0.7173574767257094
-[23:43:23] [User Authenticator #1/INFO]: UUID of player k3v is c81810d4-4412-3a3b-84f6-ed60bfc6133f
-[23:43:24] [Server thread/INFO]: k3v joined the game
-[23:43:24] [Server thread/INFO]: k3v[/127.36.66.8:32961] logged in with entity id 2999 at ([world]-562.7365269472851, 91.24918707874468, -109.67980382247032)
-[23:43:31] [Async Chat Thread - #1/INFO]: [Not Secure] <_Jusinho_> holas
-[23:43:40] [Async Chat Thread - #1/INFO]: [Not Secure] <k3v> buenass
-[23:52:15] [User Authenticator #2/INFO]: UUID of player ianxpro is 73feed84-5bb3-3719-a08f-86dcb317e9cc
-[23:52:18] [Server thread/INFO]: ianxpro joined the game
-[23:52:18] [Server thread/INFO]: ianxpro[/127.167.224.42:60603] logged in with entity id 5534 at ([world]-540.2749947534006, 70.0, -143.9542848599071)
-[23:52:29] [Async Chat Thread - #2/INFO]: [Not Secure] <_Jusinho_> helouu
-[23:52:37] [Async Chat Thread - #2/INFO]: [Not Secure] <ianxpro> buenas
-[23:53:12] [Async Chat Thread - #3/INFO]: [Not Secure] <k3v> ian
-[23:53:18] [Async Chat Thread - #3/INFO]: [Not Secure] <ianxpro> mande
-[23:53:27] [Async Chat Thread - #3/INFO]: [Not Secure] <k3v> toma
-[23:53:31] [Server thread/INFO]: ianxpro has reached the goal [Sky's the Limit]
-[23:53:34] [Async Chat Thread - #3/INFO]: [Not Secure] <ianxpro> gracias
+[00:06:27] [Server thread/INFO]: ianxpro lost connection: Disconnected
+[00:06:27] [Server thread/INFO]: ianxpro left the game
+[00:06:39] [Server thread/INFO]: k3v lost connection: Disconnected
+[00:06:39] [Server thread/INFO]: k3v left the game
+[00:08:35] [User Authenticator #3/INFO]: UUID of player k3v is c81810d4-4412-3a3b-84f6-ed60bfc6133f
+[00:08:37] [Server thread/INFO]: k3v joined the game
+[00:08:37] [Server thread/INFO]: k3v[/127.36.66.8:52727] logged in with entity id 10404 at ([world]-531.173500928427, 68.80285523859752, -156.31573834435372)
+[00:10:02] [Server thread/INFO]: _Jusinho_ lost connection: Disconnected
+[00:10:02] [Server thread/INFO]: _Jusinho_ left the game
