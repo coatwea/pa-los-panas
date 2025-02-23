@@ -41,3 +41,16 @@
 [01:35:42] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 3f077d82-5de0-46a7-a89f-692a6a183784, mapped to Cow['Cow'/227, uuid='3f077d82-5de0-46a7-a89f-692a6a183784', l='ServerLevel[world]', x=-1224.16, y=69.00, z=-10.77, cpos=[-77, -1], tl=199031, v=true], can't add Cow['Cow'/235, uuid='3f077d82-5de0-46a7-a89f-692a6a183784', l='ServerLevel[world]', x=-1230.20, y=70.00, z=-19.14, cpos=[-77, -2], tl=200826, v=false]
 [01:36:39] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 9ec11bcf-be55-4430-8bbf-f50553443297, mapped to Horse['Horse'/343, uuid='9ec11bcf-be55-4430-8bbf-f50553443297', l='ServerLevel[world]', x=-1024.03, y=69.00, z=-73.63, cpos=[-65, -5], tl=14849, v=true], can't add Horse['Horse'/345, uuid='9ec11bcf-be55-4430-8bbf-f50553443297', l='ServerLevel[world]', x=-1021.32, y=71.00, z=-79.32, cpos=[-64, -5], tl=14671, v=false]
 [01:36:56] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 9335390d-fbbf-4e1e-971d-9e3705ad827a, mapped to Bee['Bee'/330, uuid='9335390d-fbbf-4e1e-971d-9e3705ad827a', l='ServerLevel[world]', x=-1328.08, y=80.02, z=-25.29, cpos=[-84, -2], tl=35983, v=true], can't add Bee['Bee'/451, uuid='9335390d-fbbf-4e1e-971d-9e3705ad827a', l='ServerLevel[world]', x=-1376.88, y=76.94, z=-10.23, cpos=[-87, -1], tl=34852, v=false]
+[01:46:05] [User Authenticator #1/INFO]: UUID of player Prensadito is d26e9cfa-48f9-3dba-852d-4c237a133d38
+[01:46:07] [Server thread/INFO]: Prensadito joined the game
+[01:46:07] [Server thread/INFO]: Prensadito[/127.253.7.41:42095] logged in with entity id 3222 at ([world]-984.9629717472582, 112.9658034347771, 144.33077584290788)
+[01:46:28] [Async Chat Thread - #0/INFO]: [Not Secure] <_Jusinho_> oi manito
+[01:47:40] [Async Chat Thread - #1/INFO]: [Not Secure] <Prensadito> hola rey
+[01:47:56] [Async Chat Thread - #1/INFO]: [Not Secure] <_Jusinho_> que estas haciendo
+[01:54:28] [Async Chat Thread - #3/INFO]: [Not Secure] <Prensadito> nada rey
+[01:54:34] [Async Chat Thread - #3/INFO]: [Not Secure] <Prensadito> esperandolo a k3v
+[01:54:36] [Async Chat Thread - #3/INFO]: [Not Secure] <_Jusinho_> no se como te vi
+[01:54:37] [Async Chat Thread - #3/INFO]: [Not Secure] <Prensadito> para hacer una granja
+[01:54:42] [Async Chat Thread - #3/INFO]: [Not Secure] <_Jusinho_> ok xd
+[01:54:48] [Async Chat Thread - #3/INFO]: [Not Secure] <Prensadito> por aca cerca xD
+[01:55:00] [Async Chat Thread - #3/INFO]: [Not Secure] <_Jusinho_> xdd
