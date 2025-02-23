@@ -12,6 +12,7 @@
       "minecraft:jungle": "2025-02-22 02:38:31 +0000",
       "minecraft:sunflower_plains": "2025-02-22 17:02:36 +0000",
       "minecraft:river": "2025-02-22 02:31:02 +0000",
+      "minecraft:stony_shore": "2025-02-23 01:37:11 +0000",
       "minecraft:lush_caves": "2025-02-22 03:25:30 +0000",
       "minecraft:dripstone_caves": "2025-02-22 02:40:58 +0000",
       "minecraft:savanna": "2025-02-22 16:59:15 +0000",
@@ -2238,12 +2239,6 @@
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-02-23 00:27:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-23 00:24:55 +0000"
@@ -2325,6 +2320,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-23 00:24:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-02-23 00:27:48 +0000"
     },
     "done": true
   },
