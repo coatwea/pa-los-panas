@@ -1,76 +1,37 @@
-[01:35:14] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[01:35:14] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[01:35:14] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:35:14] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[01:35:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:35:24] [ServerMain/INFO]: Loaded 1290 recipes
-[01:35:24] [ServerMain/INFO]: Loaded 1399 advancements
-[01:35:24] [Server thread/INFO]: Starting minecraft server version 1.21
-[01:35:24] [Server thread/INFO]: Loading properties
-[01:35:24] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[01:35:25] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:35:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:35:25] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:35:26] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[01:35:26] [Server thread/INFO]: Default game type: SURVIVAL
-[01:35:26] [Server thread/INFO]: Generating keypair
-[01:35:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:35:27] [Server thread/INFO]: Using epoll channel type
-[01:35:27] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:35:27] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[01:35:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:35:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:35:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:35:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:35:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:35:27] [Server thread/INFO]: Preparing level "world"
-[01:35:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:35:29] [Server thread/INFO]: Time elapsed: 1962 ms
-[01:35:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:35:30] [Server thread/INFO]: Time elapsed: 316 ms
-[01:35:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:35:30] [Server thread/INFO]: Time elapsed: 168 ms
-[01:35:30] [Server thread/INFO]: [spark] Starting background profiler...
-[01:35:30] [Server thread/INFO]: Done preparing level "world" (3.622s)
-[01:35:30] [Server thread/INFO]: Running delayed init tasks
-[01:35:30] [Server thread/INFO]: Done (17.795s)! For help, type "help"
-[01:35:30] [Server thread/INFO]: Timings Reset
-[01:35:34] [User Authenticator #0/INFO]: UUID of player _Jusinho_ is fb0fd6dc-f06a-31b9-9837-2840cafaa943
-[01:35:37] [Server thread/INFO]: _Jusinho_ joined the game
-[01:35:37] [Server thread/INFO]: _Jusinho_[/127.33.121.174:60305] logged in with entity id 34 at ([world]-1100.835412800519, 70.0, 137.102546329061)
-[01:35:42] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 3f077d82-5de0-46a7-a89f-692a6a183784, mapped to Cow['Cow'/227, uuid='3f077d82-5de0-46a7-a89f-692a6a183784', l='ServerLevel[world]', x=-1224.16, y=69.00, z=-10.77, cpos=[-77, -1], tl=199031, v=true], can't add Cow['Cow'/235, uuid='3f077d82-5de0-46a7-a89f-692a6a183784', l='ServerLevel[world]', x=-1230.20, y=70.00, z=-19.14, cpos=[-77, -2], tl=200826, v=false]
-[01:36:39] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 9ec11bcf-be55-4430-8bbf-f50553443297, mapped to Horse['Horse'/343, uuid='9ec11bcf-be55-4430-8bbf-f50553443297', l='ServerLevel[world]', x=-1024.03, y=69.00, z=-73.63, cpos=[-65, -5], tl=14849, v=true], can't add Horse['Horse'/345, uuid='9ec11bcf-be55-4430-8bbf-f50553443297', l='ServerLevel[world]', x=-1021.32, y=71.00, z=-79.32, cpos=[-64, -5], tl=14671, v=false]
-[01:36:56] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 9335390d-fbbf-4e1e-971d-9e3705ad827a, mapped to Bee['Bee'/330, uuid='9335390d-fbbf-4e1e-971d-9e3705ad827a', l='ServerLevel[world]', x=-1328.08, y=80.02, z=-25.29, cpos=[-84, -2], tl=35983, v=true], can't add Bee['Bee'/451, uuid='9335390d-fbbf-4e1e-971d-9e3705ad827a', l='ServerLevel[world]', x=-1376.88, y=76.94, z=-10.23, cpos=[-87, -1], tl=34852, v=false]
-[01:46:05] [User Authenticator #1/INFO]: UUID of player Prensadito is d26e9cfa-48f9-3dba-852d-4c237a133d38
-[01:46:07] [Server thread/INFO]: Prensadito joined the game
-[01:46:07] [Server thread/INFO]: Prensadito[/127.253.7.41:42095] logged in with entity id 3222 at ([world]-984.9629717472582, 112.9658034347771, 144.33077584290788)
-[01:46:28] [Async Chat Thread - #0/INFO]: [Not Secure] <_Jusinho_> oi manito
-[01:47:40] [Async Chat Thread - #1/INFO]: [Not Secure] <Prensadito> hola rey
-[01:47:56] [Async Chat Thread - #1/INFO]: [Not Secure] <_Jusinho_> que estas haciendo
-[01:54:28] [Async Chat Thread - #3/INFO]: [Not Secure] <Prensadito> nada rey
-[01:54:34] [Async Chat Thread - #3/INFO]: [Not Secure] <Prensadito> esperandolo a k3v
-[01:54:36] [Async Chat Thread - #3/INFO]: [Not Secure] <_Jusinho_> no se como te vi
-[01:54:37] [Async Chat Thread - #3/INFO]: [Not Secure] <Prensadito> para hacer una granja
-[01:54:42] [Async Chat Thread - #3/INFO]: [Not Secure] <_Jusinho_> ok xd
-[01:54:48] [Async Chat Thread - #3/INFO]: [Not Secure] <Prensadito> por aca cerca xD
-[01:55:00] [Async Chat Thread - #3/INFO]: [Not Secure] <_Jusinho_> xdd
-[01:57:09] [Async Chat Thread - #5/INFO]: [Not Secure] <Prensadito> vos que haces bro
-[01:57:24] [Async Chat Thread - #5/INFO]: [Not Secure] <_Jusinho_> farmeando un par de cosas
-[01:57:28] [Async Chat Thread - #5/INFO]: [Not Secure] <_Jusinho_> luego voy a minar
-[01:57:36] [Async Chat Thread - #5/INFO]: [Not Secure] <Prensadito> tengo un pico para regalarte
-[01:57:41] [Async Chat Thread - #5/INFO]: [Not Secure] <_Jusinho_> a ve
-[01:58:01] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 2a98d0cd-78c5-4274-a03c-2fc28226d57d, mapped to Salmon['Salmon'/7070, uuid='2a98d0cd-78c5-4274-a03c-2fc28226d57d', l='ServerLevel[world]', x=-473.14, y=52.00, z=-128.07, cpos=[-30, -9], tl=221, v=true], can't add Salmon['Salmon'/7075, uuid='2a98d0cd-78c5-4274-a03c-2fc28226d57d', l='ServerLevel[world]', x=-473.04, y=52.00, z=-127.96, cpos=[-30, -8], tl=225, v=false]
-[01:59:12] [Async Chat Thread - #7/INFO]: [Not Secure] <Prensadito> toma bro
-[01:59:20] [Async Chat Thread - #7/INFO]: [Not Secure] <_Jusinho_> uy
-[01:59:29] [Async Chat Thread - #7/INFO]: [Not Secure] <_Jusinho_> que pro
-[01:59:31] [Async Chat Thread - #8/INFO]: [Not Secure] <_Jusinho_> muy amable
-[01:59:36] [Async Chat Thread - #8/INFO]: [Not Secure] <_Jusinho_> muchas gracias
-[01:59:41] [Async Chat Thread - #8/INFO]: [Not Secure] <Prensadito> me lo encontre en la ciudad de el end
-[01:59:45] [Async Chat Thread - #8/INFO]: [Not Secure] <_Jusinho_> ya veo
-[02:01:17] [Async Chat Thread - #9/INFO]: [Not Secure] <Prensadito> bueno parece q no va a entrar k3v
-[02:01:19] [Async Chat Thread - #9/INFO]: [Not Secure] <Prensadito> :/
-[02:01:22] [Async Chat Thread - #9/INFO]: [Not Secure] <Prensadito> me voy a jugar cs
-[02:01:25] [Async Chat Thread - #9/INFO]: [Not Secure] <Prensadito> nos vemos bro
-[02:01:28] [Server thread/INFO]: Prensadito lost connection: Disconnected
-[02:01:28] [Server thread/INFO]: Prensadito left the game
-[02:51:52] [Server thread/INFO]: _Jusinho_ has made the advancement [Hot Stuff]
+[17:39:04] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[17:39:04] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[17:39:04] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:39:04] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[17:39:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:39:12] [ServerMain/INFO]: Loaded 1290 recipes
+[17:39:12] [ServerMain/INFO]: Loaded 1399 advancements
+[17:39:12] [Server thread/INFO]: Starting minecraft server version 1.21
+[17:39:12] [Server thread/INFO]: Loading properties
+[17:39:13] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[17:39:13] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:39:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:39:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:39:14] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[17:39:15] [Server thread/INFO]: Default game type: SURVIVAL
+[17:39:15] [Server thread/INFO]: Generating keypair
+[17:39:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:39:15] [Server thread/INFO]: Using epoll channel type
+[17:39:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:39:15] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[17:39:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:39:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:39:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:39:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:39:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:39:15] [Server thread/INFO]: Preparing level "world"
+[17:39:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:39:18] [Server thread/INFO]: Time elapsed: 2061 ms
+[17:39:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:39:18] [Server thread/INFO]: Time elapsed: 205 ms
+[17:39:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:39:18] [Server thread/INFO]: Time elapsed: 204 ms
+[17:39:18] [Server thread/INFO]: [spark] Starting background profiler...
+[17:39:19] [Server thread/INFO]: Done preparing level "world" (3.559s)
+[17:39:19] [Server thread/INFO]: Running delayed init tasks
+[17:39:19] [Server thread/INFO]: Done (16.113s)! For help, type "help"
+[17:39:19] [Server thread/INFO]: Timings Reset
