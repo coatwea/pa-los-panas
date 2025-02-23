@@ -45,3 +45,22 @@
 [18:20:08] [Server thread/INFO]: Prensadito[/127.253.7.41:46403] logged in with entity id 271 at ([world]-1085.300000011921, 79.0, 112.5618480390145)
 [18:23:13] [Server thread/INFO]: Prensadito lost connection: Disconnected
 [18:23:13] [Server thread/INFO]: Prensadito left the game
+[19:24:07] [User Authenticator #2/INFO]: UUID of player k3v is c81810d4-4412-3a3b-84f6-ed60bfc6133f
+[19:24:08] [Server thread/INFO]: k3v joined the game
+[19:24:08] [Server thread/INFO]: k3v[/127.36.66.8:34053] logged in with entity id 2426 at ([world]-523.6477836860702, 67.0, -143.21148681451666)
+[19:25:38] [User Authenticator #3/INFO]: UUID of player Prensadito is d26e9cfa-48f9-3dba-852d-4c237a133d38
+[19:25:40] [Server thread/INFO]: Prensadito joined the game
+[19:25:40] [Server thread/INFO]: Prensadito[/127.253.7.41:49125] logged in with entity id 2900 at ([world]-520.3000000119209, 69.0, -138.30000001192093)
+[19:25:54] [Async Chat Thread - #0/INFO]: [Not Secure] <k3v> todo bien?
+[19:26:08] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> hola k3v
+[19:26:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> si mano
+[19:26:22] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> vamos?
+[19:26:24] [Async Chat Thread - #0/INFO]: [Not Secure] <k3v> sisi
+[19:26:37] [Server thread/WARN]: Prensadito moved wrongly!
+[19:28:05] [Async Chat Thread - #2/INFO]: [Not Secure] <Prensadito> -1300 400
+[19:28:06] [Async Chat Thread - #2/INFO]: [Not Secure] <Prensadito> bro
+[19:29:20] [Async Chat Thread - #4/INFO]: [Not Secure] <Prensadito> faltan 2 xd
+[19:29:27] [Async Chat Thread - #4/INFO]: [Not Secure] <k3v> asi esta bn
+[19:29:50] [User Authenticator #4/INFO]: UUID of player chrisis89_ is df36ffee-3ede-3104-ba3d-7e1a18c9e60d
+[19:29:52] [Server thread/INFO]: chrisis89_ joined the game
+[19:29:52] [Server thread/INFO]: chrisis89_[/127.3.146.99:47275] logged in with entity id 5363 at ([world]37.48723032834378, 71.0, 846.6710119339546)
