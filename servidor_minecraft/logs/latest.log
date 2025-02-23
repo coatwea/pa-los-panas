@@ -40,3 +40,8 @@
 [18:18:36] [Server thread/INFO]: Prensadito[/127.253.7.41:39995] logged in with entity id 34 at ([world]-1085.300000011921, 79.0, 112.5618480390145)
 [18:19:12] [Server thread/INFO]: Prensadito lost connection: Timed out
 [18:19:12] [Server thread/INFO]: Prensadito left the game
+[18:20:06] [User Authenticator #1/INFO]: UUID of player Prensadito is d26e9cfa-48f9-3dba-852d-4c237a133d38
+[18:20:08] [Server thread/INFO]: Prensadito joined the game
+[18:20:08] [Server thread/INFO]: Prensadito[/127.253.7.41:46403] logged in with entity id 271 at ([world]-1085.300000011921, 79.0, 112.5618480390145)
+[18:23:13] [Server thread/INFO]: Prensadito lost connection: Disconnected
+[18:23:13] [Server thread/INFO]: Prensadito left the game
