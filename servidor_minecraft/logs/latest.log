@@ -1,82 +1,40 @@
-[20:06:29] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[20:06:29] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[20:06:29] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[20:06:29] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[20:06:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:06:38] [ServerMain/INFO]: Loaded 1290 recipes
-[20:06:38] [ServerMain/INFO]: Loaded 1399 advancements
-[20:06:38] [Server thread/INFO]: Starting minecraft server version 1.21
-[20:06:38] [Server thread/INFO]: Loading properties
-[20:06:38] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[20:06:39] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[20:06:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:06:39] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:06:40] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[20:06:41] [Server thread/INFO]: Default game type: SURVIVAL
-[20:06:41] [Server thread/INFO]: Generating keypair
-[20:06:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:06:41] [Server thread/INFO]: Using epoll channel type
-[20:06:41] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[20:06:41] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[20:06:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:06:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:06:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:06:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:06:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:06:42] [Server thread/INFO]: Preparing level "world"
-[20:06:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:06:44] [Server thread/INFO]: Time elapsed: 2195 ms
-[20:06:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:06:44] [Server thread/INFO]: Time elapsed: 214 ms
-[20:06:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:06:45] [Server thread/INFO]: Time elapsed: 147 ms
-[20:06:45] [Server thread/INFO]: [spark] Starting background profiler...
-[20:06:45] [Server thread/INFO]: Done preparing level "world" (3.765s)
-[20:06:45] [Server thread/INFO]: Running delayed init tasks
-[20:06:45] [Server thread/INFO]: Done (17.829s)! For help, type "help"
-[20:06:45] [Server thread/INFO]: Timings Reset
-[20:07:22] [User Authenticator #0/INFO]: UUID of player prensadito is a9d5844e-dcbc-3253-8dd6-95dfccea3bd9
-[20:07:24] [Server thread/INFO]: prensadito joined the game
-[20:07:25] [Server thread/INFO]: prensadito[/127.253.7.41:33325] logged in with entity id 34 at ([world]7.5, 59.0, -6.5)
-[20:07:49] [Async Chat Thread - #0/INFO]: [Not Secure] <prensadito> a
-[20:07:51] [Server thread/INFO]: prensadito lost connection: Disconnected
-[20:07:51] [Server thread/INFO]: prensadito left the game
-[20:08:25] [User Authenticator #1/INFO]: UUID of player Prensadito is d26e9cfa-48f9-3dba-852d-4c237a133d38
-[20:08:27] [Server thread/INFO]: Prensadito joined the game
-[20:08:27] [Server thread/INFO]: Prensadito[/127.253.7.41:33583] logged in with entity id 190 at ([world]-1296.1293380565942, 89.0, 400.47752618704305)
-[20:08:27] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 04762dd4-6f79-4f42-8edd-ad7b36ec41ed, mapped to Bat['Bat'/206, uuid='04762dd4-6f79-4f42-8edd-ad7b36ec41ed', l='ServerLevel[world]', x=-1296.26, y=-33.83, z=389.45, cpos=[-82, 24], tl=55, v=true], can't add Bat['Bat'/226, uuid='04762dd4-6f79-4f42-8edd-ad7b36ec41ed', l='ServerLevel[world]', x=-1295.41, y=-34.66, z=388.50, cpos=[-81, 24], tl=41, v=false]
-[20:12:09] [User Authenticator #2/INFO]: UUID of player chrisis89_ is df36ffee-3ede-3104-ba3d-7e1a18c9e60d
-[20:12:11] [Server thread/INFO]: chrisis89_ joined the game
-[20:12:11] [Server thread/INFO]: chrisis89_[/127.3.146.99:54483] logged in with entity id 950 at ([world]-210.30000001192093, 31.0, 776.3000000119209)
-[20:12:12] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 01208894-73aa-4670-8db6-388bff076c94, mapped to Zombie['Zombie'/1000, uuid='01208894-73aa-4670-8db6-388bff076c94', l='ServerLevel[world]', x=-229.69, y=37.00, z=720.53, cpos=[-15, 45], tl=1675, v=true], can't add Zombie['Zombie'/1022, uuid='01208894-73aa-4670-8db6-388bff076c94', l='ServerLevel[world]', x=-244.03, y=36.00, z=722.42, cpos=[-16, 45], tl=1818, v=false]
-[20:12:12] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: a257970d-c6e9-4ee8-9f99-ec89f87660fa, mapped to Creeper['Creeper'/1017, uuid='a257970d-c6e9-4ee8-9f99-ec89f87660fa', l='ServerLevel[world]', x=-270.50, y=33.00, z=739.50, cpos=[-17, 46], tl=51, v=true], can't add Creeper['Creeper'/1044, uuid='a257970d-c6e9-4ee8-9f99-ec89f87660fa', l='ServerLevel[world]', x=-275.19, y=35.00, z=738.53, cpos=[-18, 46], tl=224, v=false]
-[20:12:12] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 6f1f15a9-4c19-49ee-bf8a-57022caac20d, mapped to Bat['Bat'/1066, uuid='6f1f15a9-4c19-49ee-bf8a-57022caac20d', l='ServerLevel[world]', x=-223.03, y=-0.95, z=666.64, cpos=[-14, 41], tl=182, v=true], can't add Bat['Bat'/1121, uuid='6f1f15a9-4c19-49ee-bf8a-57022caac20d', l='ServerLevel[world]', x=-231.89, y=1.26, z=665.48, cpos=[-15, 41], tl=748, v=false]
-[20:12:13] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: f6cbb855-93f6-4bdf-8d6e-984b3ff62bd2, mapped to Bat['Bat'/1136, uuid='f6cbb855-93f6-4bdf-8d6e-984b3ff62bd2', l='ServerLevel[world]', x=-316.05, y=-40.42, z=736.75, cpos=[-20, 46], tl=586, v=true], can't add Bat['Bat'/1149, uuid='f6cbb855-93f6-4bdf-8d6e-984b3ff62bd2', l='ServerLevel[world]', x=-323.85, y=-37.13, z=738.77, cpos=[-21, 46], tl=689, v=false]
-[20:12:13] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: f41c5046-257d-4b9c-8010-0733264d0645, mapped to Creeper['Creeper'/1151, uuid='f41c5046-257d-4b9c-8010-0733264d0645', l='ServerLevel[world]', x=-270.50, y=18.00, z=687.50, cpos=[-17, 42], tl=947, v=true], can't add Creeper['Creeper'/1165, uuid='f41c5046-257d-4b9c-8010-0733264d0645', l='ServerLevel[world]', x=-272.95, y=18.06, z=688.94, cpos=[-18, 43], tl=1120, v=false]
-[20:12:14] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: d9336528-da9b-4beb-9fea-83cbcc11edc5, mapped to Squid['Squid'/1211, uuid='d9336528-da9b-4beb-9fea-83cbcc11edc5', l='ServerLevel[world]', x=-367.60, y=59.46, z=760.36, cpos=[-23, 47], tl=31, v=true], can't add Squid['Squid'/1255, uuid='d9336528-da9b-4beb-9fea-83cbcc11edc5', l='ServerLevel[world]', x=-369.76, y=60.25, z=757.12, cpos=[-24, 47], tl=440, v=false]
-[20:14:09] [Server thread/INFO]: Stopping server
-[20:14:09] [Server thread/INFO]: Saving players
-[20:14:09] [Server thread/INFO]: Prensadito lost connection: Server closed
-[20:14:09] [Server thread/INFO]: Prensadito left the game
-[20:14:09] [Server thread/INFO]: chrisis89_ lost connection: Server closed
-[20:14:09] [Server thread/INFO]: chrisis89_ left the game
-[20:14:09] [Server thread/INFO]: Saving worlds
-[20:14:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:14:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[20:14:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[20:14:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[20:14:11] [Server thread/INFO]: [ChunkHolderManager] Saved 1116 block chunks, 867 entity chunks, 1 poi chunks in world 'world' in 1.67s
-[20:14:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[20:14:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[20:14:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[20:14:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[20:14:11] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[20:14:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[20:14:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[20:14:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[20:14:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[20:14:11] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 12 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[20:14:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:14:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:14:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:14:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:29:05] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[04:29:05] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[04:29:05] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:29:05] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[04:29:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:29:13] [ServerMain/INFO]: Loaded 1290 recipes
+[04:29:14] [ServerMain/INFO]: Loaded 1399 advancements
+[04:29:14] [Server thread/INFO]: Starting minecraft server version 1.21
+[04:29:14] [Server thread/INFO]: Loading properties
+[04:29:14] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[04:29:15] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[04:29:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:29:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:29:16] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[04:29:16] [Server thread/INFO]: Default game type: SURVIVAL
+[04:29:16] [Server thread/INFO]: Generating keypair
+[04:29:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:29:16] [Server thread/INFO]: Using epoll channel type
+[04:29:16] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:29:16] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[04:29:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:29:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:29:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:29:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:29:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:29:16] [Server thread/INFO]: Preparing level "world"
+[04:29:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:29:19] [Server thread/INFO]: Time elapsed: 2702 ms
+[04:29:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:29:20] [Server thread/INFO]: Time elapsed: 331 ms
+[04:29:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:29:20] [Server thread/INFO]: Time elapsed: 325 ms
+[04:29:20] [Server thread/INFO]: [spark] Starting background profiler...
+[04:29:20] [Server thread/INFO]: Done preparing level "world" (4.288s)
+[04:29:20] [Server thread/INFO]: Running delayed init tasks
+[04:29:20] [Server thread/INFO]: Done (16.993s)! For help, type "help"
+[04:29:20] [Server thread/INFO]: Timings Reset
+[04:34:23] [User Authenticator #0/INFO]: UUID of player chrisis89_ is df36ffee-3ede-3104-ba3d-7e1a18c9e60d
+[04:34:25] [Server thread/INFO]: chrisis89_ joined the game
+[04:34:25] [Server thread/INFO]: chrisis89_[/127.19.13.167:39367] logged in with entity id 99 at ([world]-234.05392176564564, 78.0, 637.4354632361915)
