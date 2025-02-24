@@ -51,3 +51,13 @@
 [15:15:58] [User Authenticator #2/INFO]: UUID of player k3v is c81810d4-4412-3a3b-84f6-ed60bfc6133f
 [15:16:00] [Server thread/INFO]: k3v joined the game
 [15:16:00] [Server thread/INFO]: k3v[/127.36.66.8:49191] logged in with entity id 1232 at ([world]-1299.6446538780465, 89.0, 400.78145592401364)
+[15:17:58] [User Authenticator #3/INFO]: UUID of player chrisis89_ is df36ffee-3ede-3104-ba3d-7e1a18c9e60d
+[15:17:59] [Server thread/INFO]: chrisis89_ joined the game
+[15:17:59] [Server thread/INFO]: chrisis89_[/127.19.13.167:50753] logged in with entity id 1582 at ([world]-453.69999998807907, 66.0, -101.5336112903336)
+[15:19:58] [Server thread/INFO]: k3v lost connection: Disconnected
+[15:19:58] [Server thread/INFO]: k3v left the game
+[15:26:10] [User Authenticator #4/INFO]: UUID of player k3v is c81810d4-4412-3a3b-84f6-ed60bfc6133f
+[15:26:11] [Server thread/INFO]: k3v joined the game
+[15:26:11] [Server thread/INFO]: k3v[/127.36.66.8:34973] logged in with entity id 3128 at ([world]-1299.6446538780465, 89.0, 400.78145592401364)
+[15:27:31] [Server thread/INFO]: k3v lost connection: Disconnected
+[15:27:31] [Server thread/INFO]: k3v left the game
