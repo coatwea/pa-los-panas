@@ -240,7 +240,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-02-21 01:59:04 +0000"
+      "bread": "2025-02-21 01:59:04 +0000",
+      "baked_potato": "2025-02-24 05:38:38 +0000"
     },
     "done": false
   },
@@ -977,6 +978,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-02-24 05:36:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-02-24 05:19:44 +0000"
@@ -986,6 +993,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-02-24 05:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-24 05:32:45 +0000"
     },
     "done": true
   },
@@ -1019,6 +1032,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-24 05:32:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-02-24 05:19:44 +0000"
@@ -1028,6 +1047,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-02-24 05:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-24 05:32:45 +0000"
     },
     "done": true
   },
