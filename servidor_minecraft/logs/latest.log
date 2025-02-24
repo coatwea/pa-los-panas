@@ -35,3 +35,19 @@
 [14:47:36] [Server thread/INFO]: Running delayed init tasks
 [14:47:36] [Server thread/INFO]: Done (13.667s)! For help, type "help"
 [14:47:36] [Server thread/INFO]: Timings Reset
+[14:57:41] [User Authenticator #0/INFO]: UUID of player AdrixTb is 0b7de612-1c05-30d3-bf11-0b5ab70a1a04
+[14:57:42] [Server thread/INFO]: AdrixTb joined the game
+[14:57:43] [Server thread/INFO]: AdrixTb[/127.89.111.107:35915] logged in with entity id 99 at ([world]3.5, 65.0, 5.5)
+[14:58:10] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 0e1e7fec-28fb-42dc-92c9-9ab4dbfbd9fb, mapped to Pig['Pig'/210, uuid='0e1e7fec-28fb-42dc-92c9-9ab4dbfbd9fb', l='ServerLevel[world]', x=-219.74, y=69.00, z=-41.80, cpos=[-14, -3], tl=79052, v=true], can't add Pig['Pig'/224, uuid='0e1e7fec-28fb-42dc-92c9-9ab4dbfbd9fb', l='ServerLevel[world]', x=-227.22, y=70.00, z=-40.74, cpos=[-15, -3], tl=79419, v=false]
+[14:59:34] [Server thread/INFO]: AdrixTb has made the advancement [We Need to Go Deeper]
+[14:59:40] [Server thread/INFO]: AdrixTb lost connection: Disconnected
+[14:59:40] [Server thread/INFO]: AdrixTb left the game
+[14:59:52] [User Authenticator #1/INFO]: UUID of player tonigomez is dc7983a7-4f99-370c-8d71-1b85fb4379f3
+[14:59:54] [Server thread/INFO]: tonigomez joined the game
+[14:59:54] [Server thread/INFO]: tonigomez[/127.209.96.241:41443] logged in with entity id 695 at ([world]8.5, 66.0, 10.5)
+[15:01:27] [Server thread/INFO]: tonigomez has made the advancement [We Need to Go Deeper]
+[15:01:49] [Server thread/INFO]: tonigomez lost connection: Disconnected
+[15:01:49] [Server thread/INFO]: tonigomez left the game
+[15:15:58] [User Authenticator #2/INFO]: UUID of player k3v is c81810d4-4412-3a3b-84f6-ed60bfc6133f
+[15:16:00] [Server thread/INFO]: k3v joined the game
+[15:16:00] [Server thread/INFO]: k3v[/127.36.66.8:49191] logged in with entity id 1232 at ([world]-1299.6446538780465, 89.0, 400.78145592401364)
