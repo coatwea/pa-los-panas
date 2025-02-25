@@ -35,3 +35,6 @@
 [02:03:05] [Server thread/INFO]: Running delayed init tasks
 [02:03:05] [Server thread/INFO]: Done (13.335s)! For help, type "help"
 [02:03:05] [Server thread/INFO]: Timings Reset
+[02:22:50] [User Authenticator #0/INFO]: UUID of player chrisis89_ is df36ffee-3ede-3104-ba3d-7e1a18c9e60d
+[02:22:52] [Server thread/INFO]: chrisis89_ joined the game
+[02:22:52] [Server thread/INFO]: chrisis89_[/127.128.148.148:45719] logged in with entity id 101 at ([world]-448.0137489685407, 70.0, -97.63880896500488)
