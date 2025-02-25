@@ -1,112 +1,37 @@
-[14:47:23] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[14:47:23] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[14:47:23] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[14:47:24] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[14:47:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:47:31] [ServerMain/INFO]: Loaded 1290 recipes
-[14:47:31] [ServerMain/INFO]: Loaded 1399 advancements
-[14:47:31] [Server thread/INFO]: Starting minecraft server version 1.21
-[14:47:31] [Server thread/INFO]: Loading properties
-[14:47:31] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[14:47:32] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[14:47:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:47:32] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:47:33] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[14:47:33] [Server thread/INFO]: Default game type: SURVIVAL
-[14:47:33] [Server thread/INFO]: Generating keypair
-[14:47:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:47:33] [Server thread/INFO]: Using epoll channel type
-[14:47:33] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[14:47:33] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[14:47:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:47:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:47:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:47:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:47:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:47:33] [Server thread/INFO]: Preparing level "world"
-[14:47:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:47:35] [Server thread/INFO]: Time elapsed: 1487 ms
-[14:47:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:47:35] [Server thread/INFO]: Time elapsed: 272 ms
-[14:47:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:47:35] [Server thread/INFO]: Time elapsed: 129 ms
-[14:47:36] [Server thread/INFO]: [spark] Starting background profiler...
-[14:47:36] [Server thread/INFO]: Done preparing level "world" (2.756s)
-[14:47:36] [Server thread/INFO]: Running delayed init tasks
-[14:47:36] [Server thread/INFO]: Done (13.667s)! For help, type "help"
-[14:47:36] [Server thread/INFO]: Timings Reset
-[14:57:41] [User Authenticator #0/INFO]: UUID of player AdrixTb is 0b7de612-1c05-30d3-bf11-0b5ab70a1a04
-[14:57:42] [Server thread/INFO]: AdrixTb joined the game
-[14:57:43] [Server thread/INFO]: AdrixTb[/127.89.111.107:35915] logged in with entity id 99 at ([world]3.5, 65.0, 5.5)
-[14:58:10] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 0e1e7fec-28fb-42dc-92c9-9ab4dbfbd9fb, mapped to Pig['Pig'/210, uuid='0e1e7fec-28fb-42dc-92c9-9ab4dbfbd9fb', l='ServerLevel[world]', x=-219.74, y=69.00, z=-41.80, cpos=[-14, -3], tl=79052, v=true], can't add Pig['Pig'/224, uuid='0e1e7fec-28fb-42dc-92c9-9ab4dbfbd9fb', l='ServerLevel[world]', x=-227.22, y=70.00, z=-40.74, cpos=[-15, -3], tl=79419, v=false]
-[14:59:34] [Server thread/INFO]: AdrixTb has made the advancement [We Need to Go Deeper]
-[14:59:40] [Server thread/INFO]: AdrixTb lost connection: Disconnected
-[14:59:40] [Server thread/INFO]: AdrixTb left the game
-[14:59:52] [User Authenticator #1/INFO]: UUID of player tonigomez is dc7983a7-4f99-370c-8d71-1b85fb4379f3
-[14:59:54] [Server thread/INFO]: tonigomez joined the game
-[14:59:54] [Server thread/INFO]: tonigomez[/127.209.96.241:41443] logged in with entity id 695 at ([world]8.5, 66.0, 10.5)
-[15:01:27] [Server thread/INFO]: tonigomez has made the advancement [We Need to Go Deeper]
-[15:01:49] [Server thread/INFO]: tonigomez lost connection: Disconnected
-[15:01:49] [Server thread/INFO]: tonigomez left the game
-[15:15:58] [User Authenticator #2/INFO]: UUID of player k3v is c81810d4-4412-3a3b-84f6-ed60bfc6133f
-[15:16:00] [Server thread/INFO]: k3v joined the game
-[15:16:00] [Server thread/INFO]: k3v[/127.36.66.8:49191] logged in with entity id 1232 at ([world]-1299.6446538780465, 89.0, 400.78145592401364)
-[15:17:58] [User Authenticator #3/INFO]: UUID of player chrisis89_ is df36ffee-3ede-3104-ba3d-7e1a18c9e60d
-[15:17:59] [Server thread/INFO]: chrisis89_ joined the game
-[15:17:59] [Server thread/INFO]: chrisis89_[/127.19.13.167:50753] logged in with entity id 1582 at ([world]-453.69999998807907, 66.0, -101.5336112903336)
-[15:19:58] [Server thread/INFO]: k3v lost connection: Disconnected
-[15:19:58] [Server thread/INFO]: k3v left the game
-[15:26:10] [User Authenticator #4/INFO]: UUID of player k3v is c81810d4-4412-3a3b-84f6-ed60bfc6133f
-[15:26:11] [Server thread/INFO]: k3v joined the game
-[15:26:11] [Server thread/INFO]: k3v[/127.36.66.8:34973] logged in with entity id 3128 at ([world]-1299.6446538780465, 89.0, 400.78145592401364)
-[15:27:31] [Server thread/INFO]: k3v lost connection: Disconnected
-[15:27:31] [Server thread/INFO]: k3v left the game
-[15:29:23] [User Authenticator #5/INFO]: UUID of player k3v is c81810d4-4412-3a3b-84f6-ed60bfc6133f
-[15:29:24] [Server thread/INFO]: k3v joined the game
-[15:29:24] [Server thread/INFO]: k3v[/127.36.66.8:33793] logged in with entity id 3975 at ([world]-1299.642124479709, 89.0, 400.78609181945666)
-[15:30:28] [User Authenticator #6/INFO]: UUID of player Prensadito is d26e9cfa-48f9-3dba-852d-4c237a133d38
-[15:30:30] [Server thread/INFO]: Prensadito joined the game
-[15:30:30] [Server thread/INFO]: Prensadito[/127.253.7.41:49487] logged in with entity id 4448 at ([world]-556.6999999880791, 99.0, -109.392867984217)
-[15:32:02] [Async Chat Thread - #0/INFO]: [Not Secure] <k3v> en serio perdimos la shulker?
-[15:32:07] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> si
-[15:32:16] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> a veces se pierden las cosas cuando se reinicia de la nada
-[15:33:07] [Async Chat Thread - #0/INFO]: [Not Secure] <k3v> pero se perdio lo de la redstone y la madera
-[15:33:13] [Async Chat Thread - #0/INFO]: [Not Secure] <k3v> al menos
-[15:33:14] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> vos tenias lo otor
-[15:33:24] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> otro?
-[15:33:28] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> los dispenser
-[15:33:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> ?
-[15:33:42] [Async Chat Thread - #0/INFO]: [Not Secure] <k3v> lamentablemente no
-[15:33:46] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> :/
-[15:33:51] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> no pasa nada lo recuperamos
-[15:33:55] [Async Chat Thread - #0/INFO]: [Not Secure] <k3v> sisi
-[15:33:58] [Async Chat Thread - #0/INFO]: [Not Secure] <k3v> ahi voy
-[15:34:07] [User Authenticator #7/INFO]: UUID of player chrisis89_ is df36ffee-3ede-3104-ba3d-7e1a18c9e60d
-[15:34:07] [Server thread/INFO]: chrisis89_ lost connection: You logged in from another location
-[15:34:07] [Server thread/INFO]: chrisis89_ left the game
-[15:34:09] [Server thread/INFO]: chrisis89_ joined the game
-[15:34:09] [Server thread/INFO]: chrisis89_[/127.128.148.148:60741] logged in with entity id 5828 at ([world]-446.72070620747814, 70.0, -103.69999998807907)
-[15:34:13] [Async Chat Thread - #0/INFO]: [Not Secure] <chrisis89_> a
-[15:34:21] [Async Chat Thread - #0/INFO]: [Not Secure] <chrisis89_> fui a saludar y me saco, buenaso
-[15:34:26] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> xD
-[15:34:44] [Async Chat Thread - #0/INFO]: [Not Secure] <chrisis89_> m hice la casa acá, no molesto¿
-[15:34:47] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> no bro
-[15:34:50] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> lo que necesites
-[15:34:56] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> pedi
-[15:34:58] [Async Chat Thread - #0/INFO]: [Not Secure] <chrisis89_> gracias gracias
-[15:35:03] [Async Chat Thread - #0/INFO]: [Not Secure] <chrisis89_> andan re full ustedes
-[15:35:12] [Async Chat Thread - #0/INFO]: [Not Secure] <Prensadito> ahi un aldeano que da armadura de diamante
-[15:35:13] [Async Chat Thread - #0/INFO]: [Not Secure] <chrisis89_> hicieron speedruno q
-[15:35:18] [Async Chat Thread - #0/INFO]: [Not Secure] <chrisis89_> ah increible
-[15:39:10] [Async Chat Thread - #2/INFO]: [Not Secure] <chrisis89_> oa
-[15:39:13] [Async Chat Thread - #2/INFO]: [Not Secure] <k3v> esta buena la casa
-[15:39:17] [Async Chat Thread - #2/INFO]: [Not Secure] <chrisis89_> JAAKJAAK
-[15:39:21] [Async Chat Thread - #2/INFO]: [Not Secure] <chrisis89_> gracias
-[15:42:38] [Server thread/INFO]: k3v has made the advancement [Enchanter]
-[15:55:40] [Server thread/WARN]: k3v moved wrongly!
-[16:20:09] [Server thread/WARN]: k3v moved wrongly!
-[16:20:16] [Server thread/WARN]: k3v moved wrongly!
-[16:26:14] [Server thread/INFO]: chrisis89_ lost connection: Disconnected
-[16:26:14] [Server thread/INFO]: chrisis89_ left the game
-[16:36:38] [Server thread/INFO]: Prensadito lost connection: Disconnected
-[16:36:38] [Server thread/INFO]: Prensadito left the game
+[02:02:52] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[02:02:52] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[02:02:52] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:02:53] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[02:02:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:03:00] [ServerMain/INFO]: Loaded 1290 recipes
+[02:03:00] [ServerMain/INFO]: Loaded 1399 advancements
+[02:03:00] [Server thread/INFO]: Starting minecraft server version 1.21
+[02:03:00] [Server thread/INFO]: Loading properties
+[02:03:00] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[02:03:01] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:03:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:03:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:03:01] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[02:03:02] [Server thread/INFO]: Default game type: SURVIVAL
+[02:03:02] [Server thread/INFO]: Generating keypair
+[02:03:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:03:02] [Server thread/INFO]: Using epoll channel type
+[02:03:02] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:03:02] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:03:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:03:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:03:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:03:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:03:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:03:02] [Server thread/INFO]: Preparing level "world"
+[02:03:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:03:04] [Server thread/INFO]: Time elapsed: 1587 ms
+[02:03:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:03:04] [Server thread/INFO]: Time elapsed: 267 ms
+[02:03:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:03:04] [Server thread/INFO]: Time elapsed: 85 ms
+[02:03:04] [Server thread/INFO]: [spark] Starting background profiler...
+[02:03:05] [Server thread/INFO]: Done preparing level "world" (2.781s)
+[02:03:05] [Server thread/INFO]: Running delayed init tasks
+[02:03:05] [Server thread/INFO]: Done (13.335s)! For help, type "help"
+[02:03:05] [Server thread/INFO]: Timings Reset
